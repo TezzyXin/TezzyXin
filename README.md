@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kuba, I study Cybersecurity at the Warsaw University of Technology,
-- 👀 I’m looking for an internship in Warsaw to develop skills in Cybersecurity, programming, DevOps or similar
-- 🌱 I’m currently learning operating systems, CI/CD and Java
+- 💼 Currently working at Centrum e-Zdrowia as Security Department Intern
 - ⚽ My hobbies: football, gym, listening to music, Formula 1
 
 	📖 My biggest projects:
